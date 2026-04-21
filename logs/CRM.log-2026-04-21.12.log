@@ -1,0 +1,6 @@
+2026-04-21T14:57:09.643+05:30  INFO 16484 --- [CRM] [main] com.Pradeesha.crm.CrmApplication         : Starting CrmApplication using Java 26 with PID 16484 (D:\CustomerRealtionshipManagementSystem\CRM\target\classes started by Hp in D:\CustomerRealtionshipManagementSystem\CRM)
+2026-04-21T14:57:09.707+05:30  INFO 16484 --- [CRM] [main] com.Pradeesha.crm.CrmApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-04-21T14:57:12.190+05:30  INFO 16484 --- [CRM] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-04-21T14:57:12.445+05:30  INFO 16484 --- [CRM] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 214 ms. Found 4 JPA repository interfaces.
+2026-04-21T14:57:14.638+05:30  INFO 16484 --- [CRM] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2026-04-21T14:57:14.696+05:30  INFO 16484 --- [CRM] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
