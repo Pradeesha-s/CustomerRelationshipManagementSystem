@@ -1,0 +1,6 @@
+2026-04-21T12:14:47.431+05:30  INFO 7044 --- [CRM] [main] c.e.crm.integration.CrmIntegrationTest   : Starting CrmIntegrationTest using Java 26 with PID 7044 (started by Hp in D:\CustomerRealtionshipManagementSystem\CRM)
+2026-04-21T12:14:47.434+05:30  INFO 7044 --- [CRM] [main] c.e.crm.integration.CrmIntegrationTest   : No active profile set, falling back to 1 default profile: "default"
+2026-04-21T12:14:48.944+05:30  INFO 7044 --- [CRM] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-04-21T12:14:49.092+05:30  INFO 7044 --- [CRM] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 122 ms. Found 4 JPA repository interfaces.
+2026-04-21T12:14:50.855+05:30  INFO 7044 --- [CRM] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-04-21T12:14:51.037+05:30  INFO 7044 --- [CRM] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.22.Final
